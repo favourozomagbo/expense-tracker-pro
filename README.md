@@ -26,6 +26,18 @@ A modern personal finance web application built with **Python, Flask, SQLite, HT
 
 ![CSV Export](screenshots/export-csv.png)
 
+### transactions-table Export
+
+![transactions-table](screenshots/transactions-table.png)
+
+### notification Export
+
+![notification](screenshots/notification.png)
+
+### type-filter Export
+
+![type-filter](screenshots/type-filter.png)
+
 ---
 
 ## ✨ Features
